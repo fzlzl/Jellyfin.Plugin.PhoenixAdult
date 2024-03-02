@@ -73,5 +73,5 @@ jobs:
           prerelease: true
           title: "Development Build"
           files: |
-            **/Jellyfin.Plugin.PhoenixAdult.zip
+            **/Jellyfin.Plugin.PhoenixAdultttt.zip
             **/Emby.Plugins.PhoenixAdult.zip
